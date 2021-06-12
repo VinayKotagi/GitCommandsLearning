@@ -5,3 +5,9 @@
 2. git config --global user.name "Vinay", git config --global user.email "vinay.kotagi.s@gmail.com"
 
 3. git add remote 
+
+4. git status
+
+5. git add .
+
+6. git commit -a -m "commit all unstages files "
